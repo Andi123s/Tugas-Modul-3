@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.text.DecimalFormat;
-//ngerjain sampek jam 2 malam
+//editing git
 /**
  * Class PemesananTiket digunakan untuk mengelola pemesanan tiket film, termasuk menghitung total biaya
  * dan mencetak struk pemesanan.
